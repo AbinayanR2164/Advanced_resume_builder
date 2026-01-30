@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Users Data Table</title>
+    <title>Users Data Tables</title>
     <style>
         table {
             font-family: Arial, sans-serif;
@@ -92,3 +92,4 @@
 
 </body>
 </html>
+
