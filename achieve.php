@@ -36,7 +36,7 @@ $name = $_REQUEST['id'] ?? '';
               <input type="text" name="image" placeholder="Project Image URL" class="form__input" required>
             </div>
             <div class="row">
-              <input type="text" name="project_link" placeholder="Project Video Clip URL" class="form__input" required>
+              <input type="text" name="project_link" placeholder="Project Video Cli1234p URL" class="form__input" required>
             </div>
             <button name="action" value="add" style="width:200px;background-color:seagreen;border-radius:100px;color:white;" class="form__input">
               Upload
@@ -104,3 +104,4 @@ $name = $_REQUEST['id'] ?? '';
 </body>
 
 </html>
+
