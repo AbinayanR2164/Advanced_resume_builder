@@ -54,7 +54,7 @@ $name = $_REQUEST['id'] ?? '';
     <table style="width:90%;max-width:900px;margin:auto;border-collapse:collapse;font-family:Arial,sans-serif;box-shadow:0 2px 6px rgba(0,0,0,0.1);">
       <thead style="background:#49708f;color:white;">
         <tr>
-          <th style="padding:10px;text-align:left;">Title</th>
+          <th style="padding:10px;text-align:left;">Title1234</th>
           <th style="padding:10px;text-align:left;">Description</th>
           <th style="padding:10px;text-align:left;">Image</th>
           <th style="padding:10px;text-align:left;">Video Link</th>
@@ -104,6 +104,7 @@ $name = $_REQUEST['id'] ?? '';
 </body>
 
 </html>
+
 
 
 
